@@ -9,7 +9,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Tu organización GH como teacher
 * Enlaces a los GH profiles de los otros miembros del equipo como alumnos
 
-## Alumno 1
+## David Alonso Trujillo
 
 * [GH Classroom]()
 * [Organización de Clase]()
