@@ -20,7 +20,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Joana Domínguez Toledo
 
-* [GH Classroom]() 
+* [GH Classroom](https://classroom.github.com/a/yQDyf1_a) 
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
