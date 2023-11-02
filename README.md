@@ -20,9 +20,9 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Joana Domínguez Toledo
 
-* [GH Classroom]()
+* [GH Classroom]() 
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
-  * [Alumno 1]()
+  * [David Alonso Trujillo](https://github.com/DAT-995/DAT-995#:~:text=/-,DAT%2D995,-Type)
   * [Alumno 2]()
