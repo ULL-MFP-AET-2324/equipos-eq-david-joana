@@ -11,7 +11,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## David Alonso Trujillo
 
-* [GH Classroom]()
+* [GH Classroom](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
