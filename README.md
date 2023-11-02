@@ -15,7 +15,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
-  * [Joana Domínguez Toledo]()
+  * [Joana Domínguez Toledo](https://github.com/Joanadt98)
   * [Alumno 2]()
 
 ## Joana Domínguez Toledo
