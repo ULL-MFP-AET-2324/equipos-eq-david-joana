@@ -20,7 +20,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Joana Domínguez Toledo
 
-* [GH Classroom](https://classroom.github.com/a/yQDyf1_a) 
+* [GH Classroom]([https://classroom.github.com/a/yQDyf1_a](https://classroom.github.com/a/yQDyf1_a)) 
 * [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0101039183/tecnologia-1-template#:~:text=Settings-,tecnologia%2D1%2Dtemplate,-Public%20template)
 * [Profesor](https://github.com/Joanadt98/Joanadt98#:~:text=Settings-,Joanadt98,-Public)
 * Alumnos en la organización
