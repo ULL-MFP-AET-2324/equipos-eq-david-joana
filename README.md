@@ -18,7 +18,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
   * [Alumno 1]()
   * [Alumno 2]()
 
-## Alumno 2
+## Joana Domínguez Toledo
 
 * [GH Classroom]()
 * [Organización de Clase]()
