@@ -11,12 +11,12 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## David Alonso Trujillo
 
-* [GH Classroom]((https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485))
+* [GH Classroom](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
 * [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100833485)
 * [Profesor](https://github.com/crguezl)
 * Alumnos en la organización
   * [Joana Domínguez Toledo](https://github.com/Joanadt98)
-  * [Alumno 2]()
+  
 
 ## Joana Domínguez Toledo
 
@@ -25,4 +25,4 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Profesor](https://github.com/Joanadt98/Joanadt98#:~:text=Settings-,Joanadt98,-Public)
 * Alumnos en la organización
   * [David Alonso Trujillo](https://github.com/DAT-995/DAT-995#:~:text=/-,DAT%2D995,-Type)
-  * [Alumno 2]()
+ 
