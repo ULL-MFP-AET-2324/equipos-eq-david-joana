@@ -1,8 +1,11 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12700345)
+
+
 # Equipo
 
 Este es el equipo de la asignatura de Tecnología, desarrollado en el Máster en Formación del Profesorado, durante la asigantura de Aprendizaje y Enseñanza de la Tecnología
 
+<img src="https://github.com/ULL-MFP-AET-2324/equipos-eq-david-joana/image/"  width="250" height="250"/>
 
 ## David Alonso Trujillo
 
