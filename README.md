@@ -5,7 +5,7 @@
 
 Este es el equipo de la asignatura de Tecnología, desarrollado en el Máster en Formación del Profesorado, durante la asigantura de Aprendizaje y Enseñanza de la Tecnología
 
-<img src="https://github.com/ULL-MFP-AET-2324/equipos-eq-david-joana/tree/main/image/tecnologia-octubre19.jpg"  width="250" height="250"/>
+<img src="https://github.com/ULL-MFP-AET-2324/equipos-eq-david-joana/blob/main/image/tecnologia-octubre19.jpg"  width="250" height="250"/>
 
 ## David Alonso Trujillo
 
